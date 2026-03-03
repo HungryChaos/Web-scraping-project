@@ -1,0 +1,601 @@
+BHK,Location,Price,Furnishing,Bathrooms,Tenant Preferred,Availability,Area (sqft),Area Type,Floor Number,Total Floors,Facing,Balcony,Page Number
+2.0,Chanda Nagar,20000.0,Semi-Furnished,2.0,Bachelors/Family,From Mar '26,1116.0,super-area,2.0,3.0,,,1
+2.0,"Hanumasai Nagar, Uppal",16000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,900.0,super-area,2.0,4.0,,1.0,1
+2.0,TNGOs Colony Phase 2,29000.0,Semi-Furnished,2.0,Bachelors/Family,From Apr '26,900.0,carpet-area,3.0,5.0,East,1.0,1
+2.0,Raja Rajeshwara Nagar,32000.0,Semi-Furnished,2.0,Bachelors/Family,From Mar '26,1260.0,super-area,1.0,5.0,,,1
+3.0,Addagutta,35000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1650.0,super-area,5.0,5.0,North - East,2.0,1
+3.0,Kondapur,47000.0,Furnished,2.0,Bachelors,From Apr '26,1414.0,carpet-area,4.0,5.0,East,1.0,1
+3.0,"Pocharam, NH 2 2",19000.0,Furnished,3.0,Bachelors/Family,Immediately,1500.0,super-area,3.0,4.0,,2.0,1
+4.0,"Tellapur, Outer Ring Road",55000.0,Semi-Furnished,4.0,Bachelors,From May '26,2640.0,super-area,6.0,15.0,West,2.0,1
+2.0,HMT Colony Miyapur,25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,5.0,5.0,,1.0,1
+2.0,Begumpet,30000.0,Semi-Furnished,2.0,Bachelors/Family,From Mar '26,1175.0,super-area,1.0,3.0,,,1
+2.0,Nagaram,14000.0,Unfurnished,2.0,Bachelors,Immediately,1000.0,carpet-area,,4.0,East,2.0,1
+2.0,Manikonda Jagir,33000.0,Semi-Furnished,2.0,Bachelors,Immediately,950.0,carpet-area,1.0,5.0,,2.0,1
+3.0,Aurora Colony,80000.0,Semi-Furnished,3.0,Family,Immediately,2250.0,carpet-area,2.0,5.0,North,,1
+2.0,Bachupally,17500.0,Unfurnished,2.0,Bachelors/Family,Immediately,1150.0,carpet-area,3.0,5.0,,1.0,1
+3.0,"Financial District, Nanakram Guda",45000.0,Semi-Furnished,3.0,Bachelors,From May '26,850.0,carpet-area,3.0,5.0,West,,1
+3.0,"Kokapet, Outer Ring Road",,Furnished,3.0,Family,Immediately,2552.0,super-area,1.0,27.0,West,1.0,1
+2.0,"Tellapur, Outer Ring Road",45000.0,Semi-Furnished,2.0,Bachelors,Immediately,1355.0,super-area,34.0,40.0,East,1.0,1
+2.0,Gachibowli,46000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1275.0,super-area,12.0,17.0,East,2.0,1
+3.0,"Kokapet, Outer Ring Road",70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1796.0,super-area,5.0,34.0,East,2.0,1
+2.0,Bachupally,35000.0,Furnished,2.0,Bachelors,Immediately,1110.0,super-area,20.0,33.0,West,1.0,1
+2.0,"Miyapur, NH 9",23000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1000.0,carpet-area,1.0,5.0,East,1.0,1
+2.0,Vishnupuri Extension,14500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1400.0,super-area,2.0,2.0,,,1
+2.0,Manikonda Jagir,27000.0,Unfurnished,2.0,Bachelors/Family,From Apr '26,1100.0,carpet-area,1.0,1.0,,1.0,1
+1.0,Mayuri Nagar Miyapur,19000.0,Unfurnished,1.0,Family,Immediately,690.0,carpet-area,3.0,9.0,,1.0,1
+2.0,Kondapur,42000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1047.0,carpet-area,3.0,5.0,West,1.0,1
+1.0,Ameenpur,6000.0,Unfurnished,1.0,Bachelors/Family,Immediately,400.0,carpet-area,2.0,3.0,,1.0,1
+2.0,Hyderabad,22000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1400.0,super-area,1.0,3.0,,,1
+2.0,Gachibowli,65000.0,Furnished,2.0,Bachelors/Family,From Mar '26,1245.0,super-area,29.0,33.0,,1.0,1
+2.0,"Sun City, Bandlaguda, Chevella Road",30000.0,Furnished,2.0,Bachelors/Family,From Apr '26,1050.0,carpet-area,5.0,5.0,,1.0,1
+3.0,Kapra,11000.0,Furnished,3.0,Bachelors/Family,Immediately,1588.0,super-area,3.0,5.0,,1.0,1
+3.0,Hyderabad,36000.0,Semi-Furnished,3.0,Family,Immediately,1700.0,carpet-area,1.0,3.0,North,3.0,2
+1.0,Hyderabad,9000.0,Unfurnished,1.0,Bachelors/Family,Immediately,60.0,super-area,1.0,2.0,,,2
+2.0,"Yousufguda, NH 9",,Semi-Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,3.0,4.0,,1.0,2
+3.0,"Alkapur Township, Manikonda, Outer Ring Road",65000.0,Furnished,3.0,Bachelors/Family,Immediately,2350.0,carpet-area,1.0,2.0,East,3.0,2
+2.0,Nalagandla,42500.0,Unfurnished,2.0,Bachelors,Immediately,1350.0,carpet-area,10.0,30.0,East,2.0,2
+3.0,Chandrayangutta,26000.0,Unfurnished,2.0,Bachelors,Immediately,,carpet-area,3.0,5.0,West,2.0,2
+3.0,Hitech City,,Unfurnished,3.0,Bachelors/Family,Immediately,2680.0,super-area,23.0,36.0,East,2.0,2
+3.0,Upperpally,22000.0,Unfurnished,2.0,Family,Immediately,1500.0,carpet-area,1.0,5.0,North - East,2.0,2
+2.0,KPHB Phase 15,17200.0,Unfurnished,1.0,Bachelors,Immediately,1000.0,carpet-area,2.0,5.0,East,1.0,2
+2.0,"Narsingi, Outer Ring Road",55000.0,Semi-Furnished,2.0,Bachelors,Immediately,871.0,carpet-area,24.0,39.0,East,1.0,2
+3.0,Kothaguda,70000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1456.0,super-area,22.0,40.0,,,2
+3.0,"Banjara Hills, NH 9",,Semi-Furnished,4.0,Bachelors/Family,Immediately,2375.0,super-area,1.0,5.0,East,,2
+3.0,Hyderabad,35000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,1290.0,carpet-area,8.0,14.0,,1.0,2
+1.0,Old Bowenpally,6500.0,Unfurnished,1.0,Bachelors/Family,Immediately,650.0,super-area,2.0,3.0,,,2
+3.0,Sultan Bazar,22000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,3.0,5.0,,,2
+1.0,Hyderabad,13500.0,Unfurnished,1.0,Bachelors/Family,Immediately,600.0,carpet-area,3.0,3.0,,1.0,2
+3.0,"Kokapet, Outer Ring Road",80000.0,Semi-Furnished,3.0,Bachelors,Immediately,2000.0,carpet-area,20.0,35.0,West,2.0,2
+1.0,Gachibowli,20000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,800.0,super-area,4.0,6.0,,,2
+4.0,"Somajiguda, NH 9",,Furnished,4.0,Bachelors/Family,Immediately,2800.0,carpet-area,6.0,6.0,,2.0,2
+3.0,Kompally,29000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1406.0,super-area,5.0,8.0,,,2
+3.0,Nawab Saheb Kunta,15000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1350.0,super-area,1.0,5.0,,2.0,2
+3.0,Gachibowli,66000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1615.0,super-area,,20.0,,,2
+3.0,"Pragathi Nagar, Kukatpally",20000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1650.0,carpet-area,2.0,4.0,,1.0,2
+,"Habsiguda, NH 2 2",10000.0,Furnished,3.0,Bachelors,Immediately,1500.0,carpet-area,2.0,4.0,North,3.0,2
+3.0,"Kokapet, Outer Ring Road",55000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,9.0,14.0,East,3.0,2
+3.0,Nanakaramguda,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2500.0,super-area,,10.0,East,2.0,2
+3.0,Mayuri Nagar Miyapur,36000.0,Semi-Furnished,3.0,Family,Immediately,1250.0,carpet-area,3.0,10.0,West,2.0,2
+3.0,Gachibowli,66000.0,Semi-Furnished,3.0,Family,Immediately,1905.0,super-area,1.0,12.0,North,1.0,2
+4.0,Madhapur,,Furnished,4.0,Bachelors/Family,Immediately,3500.0,super-area,6.0,158.0,,3.0,2
+,Shamshabad,,,,Bachelors/Family,Immediately,15000.0,carpet-area,,,,,2
+3.0,Gopanpally,64000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,1965.0,super-area,3.0,31.0,West,1.0,3
+2.0,Hyderabad,35000.0,Furnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,5.0,5.0,,2.0,3
+,Gachibowli,,,,Bachelors/Family,Immediately,,,,,,,3
+1.0,Hyderabad,14000.0,Unfurnished,1.0,Bachelors/Family,Immediately,500.0,carpet-area,2.0,2.0,North,1.0,3
+3.0,"Tellapur, Outer Ring Road",48000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1756.0,carpet-area,22.0,30.0,East,2.0,3
+4.0,Madhapur,,Semi-Furnished,4.0,Family,Immediately,3300.0,carpet-area,9.0,15.0,West,2.0,3
+4.0,Gachibowli,97500.0,Furnished,3.0,Bachelors,Immediately,1993.0,super-area,15.0,34.0,East,,3
+3.0,Petbasheerabad,,,,Bachelors/Family,Immediately,,,,,,,3
+3.0,Kondapur,75000.0,Furnished,3.0,Bachelors/Family,Immediately,1700.0,carpet-area,6.0,19.0,East,2.0,3
+2.0,Mohan Nagar Kothapet,18000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1110.0,super-area,4.0,4.0,,,3
+2.0,Nalagandla,45000.0,Unfurnished,2.0,Bachelors,Immediately,1345.0,super-area,12.0,22.0,East,1.0,3
+2.0,Nacharam,18000.0,Unfurnished,2.0,Bachelors/Family,Immediately,826.0,carpet-area,4.0,4.0,,2.0,3
+4.0,"Kokapet, Outer Ring Road",,Semi-Furnished,4.0,Bachelors,Immediately,2709.0,super-area,21.0,35.0,West,2.0,3
+2.0,"Pragathi Nagar, Kukatpally",20000.0,Semi-Furnished,2.0,Bachelors,From Mar '26,1050.0,carpet-area,1.0,5.0,East,1.0,3
+2.0,Masab Tank,18000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,4.0,5.0,North,,3
+2.0,"Prajay City, Hafeezpet",6800.0,Unfurnished,1.0,Bachelors,Immediately,550.0,carpet-area,4.0,4.0,West,1.0,3
+3.0,Asif Nagar,20000.0,Furnished,2.0,Bachelors,Immediately,1200.0,carpet-area,1.0,5.0,North,2.0,3
+3.0,"Somajiguda, NH 9",40000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1550.0,super-area,1.0,7.0,,,3
+3.0,"Kukatpally, NH 9",60000.0,Semi-Furnished,3.0,Bachelors,Immediately,1740.0,carpet-area,,,East,1.0,3
+2.0,Gachibowli,46000.0,Semi-Furnished,2.0,Bachelors,Immediately,940.0,carpet-area,1.0,18.0,East,1.0,3
+4.0,"Kokapet, Outer Ring Road",,Semi-Furnished,5.0,Bachelors/Family,Immediately,3400.0,super-area,13.0,15.0,,,3
+4.0,Nalagandla,81999.0,Semi-Furnished,4.0,Bachelors,Immediately,2660.0,super-area,17.0,25.0,East,1.0,3
+2.0,"Narsingi, Outer Ring Road",30000.0,Furnished,2.0,Bachelors,Immediately,960.0,carpet-area,2.0,5.0,West,1.0,3
+3.0,"Narsingi, Outer Ring Road",48000.0,Semi-Furnished,3.0,Bachelors,From Apr '26,1695.0,super-area,12.0,12.0,West,2.0,3
+,"Alkapur Township, Manikonda, Outer Ring Road",,,,Bachelors/Family,Immediately,,,,,,,3
+2.0,Gajularamaram,18000.0,Semi-Furnished,2.0,Bachelors,Immediately,1050.0,super-area,1.0,5.0,West,2.0,3
+2.0,"Bollaram, Outer Ring Road",15000.0,Semi-Furnished,2.0,Bachelors/Family,From Apr '26,1185.0,super-area,4.0,6.0,,1.0,3
+5.0,Jubilee Hills,70000.0,Unfurnished,5.0,Bachelors/Family,Immediately,3500.0,super-area,6.0,6.0,,,3
+3.0,Patancheruvu,30000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1585.0,super-area,11.0,14.0,,,3
+2.0,"Viharika Colony, Peerzadiguda",12000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1117.0,carpet-area,3.0,5.0,East,1.0,3
+3.0,Gunrock Enclave-Karimnagar Highway,30000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,1.0,2.0,,,4
+2.0,Manikonda Jagir,33500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,2.0,5.0,East,2.0,4
+3.0,Maheshwaram,,Semi-Furnished,3.0,Bachelors/Family,Immediately,1250.0,carpet-area,2.0,5.0,East,1.0,4
+1.0,"Suraram Village, Suraram",8500.0,Unfurnished,1.0,Bachelors/Family,Immediately,550.0,carpet-area,2.0,4.0,,,4
+2.0,Hyderabad,45000.0,Semi-Furnished,2.0,Bachelors,Immediately,1200.0,carpet-area,10.0,13.0,East,1.0,4
+3.0,Nalagandla,60000.0,Semi-Furnished,2.0,Bachelors,Immediately,1016.0,carpet-area,10.0,24.0,East,2.0,4
+2.0,Lalaguda Mettuguda,30000.0,Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,2.0,5.0,West,3.0,4
+3.0,"Tellapur, Outer Ring Road",49000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2083.0,super-area,4.0,9.0,East,3.0,4
+3.0,"Narsingi, Outer Ring Road",88000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2660.0,super-area,,3.0,East,3.0,4
+3.0,"Narsingi, Outer Ring Road",75000.0,Semi-Furnished,3.0,Bachelors,Immediately,2125.0,super-area,18.0,31.0,West,1.0,4
+3.0,Power Welfare Society,65000.0,Furnished,3.0,Bachelors/Family,Immediately,1796.0,carpet-area,24.0,30.0,East,2.0,4
+3.0,Kondapur,68000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1500.0,carpet-area,5.0,19.0,West,1.0,4
+1.0,Kondapur,16000.0,Unfurnished,1.0,Bachelors/Family,Immediately,550.0,carpet-area,2.0,4.0,North,1.0,4
+3.0,Kukatpally Housing Board Road,37000.0,Semi-Furnished,2.0,Bachelors,Immediately,1415.0,carpet-area,3.0,5.0,North,1.0,4
+3.0,Kharmanghat,25000.0,,3.0,Family,Immediately,1450.0,carpet-area,2.0,4.0,East,,4
+3.0,"Pocharam, NH 2 2",25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1210.0,carpet-area,,,West,1.0,4
+3.0,Nallagandla Tellapur Road,60000.0,Semi-Furnished,2.0,Bachelors,From Jan '35,1605.0,super-area,11.0,24.0,West,1.0,4
+1.0,"Yellamma Banda, Jagadgiri Gutta",15000.0,Semi-Furnished,1.0,Bachelors,Immediately,600.0,super-area,2.0,3.0,,1.0,4
+3.0,"Kollur, Outer Ring Road",50000.0,Furnished,3.0,Family,Immediately,1600.0,carpet-area,3.0,8.0,East,4.0,4
+3.0,Adibatla,15000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1000.0,super-area,2.0,6.0,,,4
+2.0,Medipally,13000.0,Unfurnished,2.0,Bachelors,Immediately,90.0,carpet-area,2.0,3.0,South,2.0,4
+3.0,Jubilee Hills,,Semi-Furnished,4.0,Bachelors,Immediately,4000.0,carpet-area,5.0,6.0,East,3.0,4
+3.0,"Manchirevula, Outer Ring Road",70000.0,Semi-Furnished,2.0,Bachelors,Immediately,1400.0,carpet-area,8.0,9.0,East,1.0,4
+3.0,Kalyan Nagar Moti Nagar,45000.0,Furnished,3.0,Family,Immediately,14500.0,carpet-area,1.0,4.0,East,3.0,4
+3.0,Moti Nagar Erragadda,25000.0,Unfurnished,3.0,Bachelors,Immediately,1200.0,carpet-area,,3.0,,1.0,4
+2.0,"Chaitanyapuri, Kothapet",20000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,3.0,3.0,,,4
+2.0,Hyderabad,10000.0,Semi-Furnished,2.0,Bachelors/Family,From Apr '26,815.0,carpet-area,5.0,5.0,East,1.0,4
+3.0,Nalagandla,80000.0,Furnished,3.0,Bachelors,Immediately,1960.0,super-area,22.0,24.0,East,2.0,4
+3.0,Kothapet,30000.0,Unfurnished,3.0,Bachelors,Immediately,1200.0,carpet-area,2.0,5.0,East,1.0,4
+5.0,Madhapur,,Semi-Furnished,6.0,Family,Immediately,5500.0,carpet-area,8.0,8.0,North,4.0,4
+3.0,Madhura Nagar Nizampet,22000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1600.0,carpet-area,1.0,5.0,West,1.0,5
+3.0,Madhapur,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2100.0,carpet-area,3.0,5.0,,3.0,5
+3.0,Hyderabad,25000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1400.0,super-area,3.0,3.0,,,5
+3.0,Kondapur,50000.0,Semi-Furnished,3.0,Family,Immediately,1198.0,carpet-area,23.0,39.0,East,1.0,5
+,Gachibowli,,,,Bachelors/Family,Immediately,,,,,,,5
+3.0,Madhapur,80000.0,Unfurnished,4.0,Bachelors/Family,Immediately,3000.0,super-area,4.0,15.0,,,5
+3.0,Hyderabad,19000.0,Semi-Furnished,3.0,Bachelors,Immediately,1300.0,carpet-area,1.0,5.0,East,2.0,5
+3.0,Kushaiguda,14000.0,Unfurnished,3.0,Bachelors,Immediately,1400.0,super-area,1.0,3.0,East,2.0,5
+2.0,"Kukatpally Housing Board Colony, NH 9",,Semi-Furnished,2.0,Family,Immediately,1200.0,super-area,,3.0,,,5
+2.0,Ameenpur,15000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,1.0,5.0,East,1.0,5
+2.0,Sangeet Nagar Kukatpally,40000.0,Semi-Furnished,2.0,Bachelors,Immediately,1070.0,carpet-area,1.0,17.0,,1.0,5
+4.0,Shaikpet,,Semi-Furnished,5.0,Bachelors,Immediately,5126.0,super-area,,34.0,West,2.0,5
+3.0,Srinivas Colony Nizampet,38000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1710.0,carpet-area,2.0,5.0,,2.0,5
+3.0,Chanda Nagar,46000.0,Semi-Furnished,3.0,Family,Immediately,1610.0,super-area,1.0,14.0,East,1.0,5
+3.0,"Kokapet, Outer Ring Road",50000.0,Furnished,3.0,Bachelors/Family,Immediately,1600.0,super-area,3.0,6.0,,,5
+2.0,"Vittal Rao Nagar, Hitech City",35000.0,Semi-Furnished,2.0,Bachelors,Immediately,1370.0,super-area,1.0,3.0,North - East,2.0,5
+2.0,Kondapur,49000.0,Semi-Furnished,2.0,Bachelors,Immediately,1495.0,super-area,12.0,26.0,West,2.0,5
+1.0,"Miyapur, NH 9",9000.0,Furnished,1.0,Bachelors,Immediately,590.0,carpet-area,7.0,20.0,East,1.0,5
+3.0,Kompally,35000.0,Furnished,3.0,Bachelors/Family,Immediately,1720.0,super-area,4.0,5.0,,,5
+2.0,"Gundlapochampally, Outer Ring Road",20000.0,Unfurnished,2.0,Bachelors,Immediately,1362.0,super-area,7.0,15.0,East,2.0,5
+3.0,Toli Chowki,30000.0,Semi-Furnished,3.0,Bachelors,Immediately,1600.0,carpet-area,2.0,4.0,East,2.0,5
+3.0,"Patrika Nagar, Hitech City",76000.0,Furnished,3.0,Bachelors,Immediately,2100.0,super-area,5.0,10.0,North - East,,5
+1.0,"Ameerpet, NH 9",10000.0,Unfurnished,1.0,Bachelors/Family,Immediately,300.0,super-area,4.0,5.0,,,5
+3.0,Gachibowli,70000.0,Unfurnished,3.0,Bachelors,Immediately,2360.0,super-area,10.0,15.0,West,,5
+3.0,Appa Junction Area,38000.0,Semi-Furnished,3.0,Family,Immediately,1700.0,carpet-area,11.0,14.0,North,2.0,5
+2.0,Nizampet,18000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1400.0,carpet-area,2.0,2.0,North,2.0,5
+3.0,Nalagandla,58000.0,Semi-Furnished,3.0,Bachelors,Immediately,1790.0,super-area,11.0,24.0,West,2.0,5
+2.0,Nizampet,22000.0,Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,4.0,5.0,,,5
+4.0,Gachibowli,,Furnished,5.0,Family,Immediately,4600.0,super-area,6.0,24.0,East,3.0,5
+2.0,Gachibowli,50000.0,Furnished,2.0,Bachelors,Immediately,798.0,carpet-area,15.0,18.0,West,1.0,5
+3.0,Gachibowli,50000.0,Furnished,3.0,Bachelors/Family,Immediately,1670.0,super-area,3.0,3.0,East,3.0,6
+2.0,Chanda Nagar,20000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,1.0,5.0,,,6
+2.0,Kondapur,35000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1150.0,carpet-area,2.0,4.0,East,2.0,6
+2.0,Alwal,13500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,2400.0,super-area,2.0,4.0,,,6
+3.0,HUDA Layout Nalagandla,43000.0,Semi-Furnished,3.0,Family,Immediately,1550.0,carpet-area,7.0,10.0,East,1.0,6
+2.0,"Banjara Hills, NH 9",,Furnished,3.0,Bachelors,Immediately,2000.0,carpet-area,4.0,4.0,,2.0,6
+1.0,Hyderabad,,Semi-Furnished,1.0,Bachelors/Family,Immediately,900.0,super-area,4.0,5.0,,1.0,6
+3.0,"Ghatkesar, NH 2 2",20000.0,Furnished,3.0,Bachelors/Family,Immediately,1400.0,super-area,4.0,4.0,South,2.0,6
+3.0,Nanakaramguda,65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1275.0,carpet-area,9.0,26.0,West,1.0,6
+3.0,Nalagandla,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,carpet-area,6.0,8.0,North - West,2.0,6
+3.0,Kondapur,58000.0,Furnished,3.0,Bachelors/Family,Immediately,2100.0,super-area,2.0,23.0,,,6
+3.0,"Manchirevula, Outer Ring Road",55000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,3000.0,super-area,2.0,5.0,,,6
+2.0,Asif Nagar,,Unfurnished,2.0,Bachelors/Family,Immediately,900.0,carpet-area,,5.0,,1.0,6
+4.0,Kukatpally Housing Board Road,60000.0,Semi-Furnished,4.0,Bachelors,Immediately,2100.0,carpet-area,2.0,11.0,North - East,3.0,6
+3.0,"Samata Colony, Toli Chowki",35000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,5.0,6.0,,,6
+1.0,Hyderabad,12500.0,Furnished,1.0,Bachelors/Family,Immediately,600.0,super-area,,2.0,,,6
+3.0,Kondapur,35000.0,Semi-Furnished,3.0,Bachelors,Immediately,1500.0,super-area,3.0,5.0,West,,6
+4.0,Madhapur,94000.0,Semi-Furnished,4.0,Family,Immediately,2900.0,carpet-area,3.0,5.0,North,2.0,6
+3.0,Kondapur,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1100.0,carpet-area,14.0,39.0,West,1.0,6
+2.0,Kondapur,35000.0,Semi-Furnished,2.0,Family,Immediately,1100.0,carpet-area,4.0,4.0,West,2.0,6
+3.0,Khajaguda,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2100.0,carpet-area,4.0,10.0,West,2.0,6
+3.0,Hitech City,60000.0,Unfurnished,3.0,Bachelors,Immediately,2187.0,super-area,2.0,8.0,West,1.0,6
+3.0,Chitrapuri Colony,60000.0,Semi-Furnished,3.0,Bachelors,Immediately,2200.0,carpet-area,4.0,9.0,East,2.0,6
+4.0,Zahara Nagar,,Semi-Furnished,4.0,Family,Immediately,2350.0,carpet-area,3.0,5.0,West,1.0,6
+2.0,Gachibowli,50000.0,Furnished,2.0,Bachelors,Immediately,798.0,carpet-area,15.0,18.0,West,1.0,6
+2.0,Nalagandla,45000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1275.0,super-area,11.0,26.0,West,1.0,6
+3.0,Gachibowli,80000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1925.0,super-area,21.0,34.0,,,6
+3.0,Puppalguda,65000.0,Semi-Furnished,3.0,Bachelors,Immediately,1140.0,carpet-area,18.0,30.0,East,2.0,6
+1.0,Masjid Banda,23000.0,Furnished,1.0,Bachelors/Family,Immediately,450.0,carpet-area,5.0,5.0,North,1.0,6
+3.0,Nalagandla,63875.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1875.0,super-area,8.0,24.0,East,,6
+1.0,Kondapur,23500.0,Furnished,1.0,Bachelors,Immediately,560.0,carpet-area,4.0,5.0,East,1.0,7
+1.0,Kondapur,23500.0,Furnished,1.0,Bachelors,Immediately,560.0,carpet-area,3.0,5.0,East,1.0,7
+1.0,Kondapur,25000.0,Furnished,1.0,Bachelors,Immediately,600.0,carpet-area,4.0,5.0,North,1.0,7
+1.0,Kondapur,24000.0,Furnished,1.0,Bachelors,Immediately,560.0,carpet-area,3.0,5.0,East,1.0,7
+2.0,Kondapur,40000.0,Furnished,2.0,Bachelors,Immediately,1235.0,super-area,4.0,5.0,North,1.0,7
+1.0,Kondapur,22000.0,Furnished,1.0,Bachelors,Immediately,560.0,carpet-area,4.0,5.0,North,1.0,7
+3.0,"Narsingi, Outer Ring Road",50000.0,Semi-Furnished,3.0,Family,Immediately,1150.0,carpet-area,14.0,18.0,West,1.0,7
+2.0,"Hyder Nagar, NH 9",23000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,5.0,,2.0,7
+4.0,Whitefields,,Semi-Furnished,6.0,Bachelors/Family,Immediately,3590.0,carpet-area,7.0,20.0,West,2.0,7
+2.0,Gachibowli,45000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1350.0,super-area,2.0,15.0,,,7
+3.0,"Narsingi, Outer Ring Road",75000.0,Semi-Furnished,3.0,Bachelors,Immediately,2020.0,super-area,17.0,39.0,West,3.0,7
+3.0,"Kokapet, Outer Ring Road",80000.0,Semi-Furnished,3.0,Family,Immediately,2124.0,super-area,30.0,34.0,West,2.0,7
+1.0,Gangaram Chanda Nagar,22000.0,Furnished,1.0,Bachelors/Family,Immediately,480.0,carpet-area,5.0,5.0,East,,7
+3.0,Gachibowli,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1895.0,super-area,1.0,6.0,East,,7
+3.0,Kondapur,,Semi-Furnished,3.0,Family,Immediately,2530.0,super-area,10.0,24.0,West,2.0,7
+3.0,"Narsingi, Outer Ring Road",62000.0,Semi-Furnished,3.0,Bachelors,Immediately,1500.0,carpet-area,12.0,30.0,East,1.0,7
+3.0,"Narsingi, Outer Ring Road",62000.0,Semi-Furnished,3.0,Bachelors,Immediately,1715.0,super-area,13.0,39.0,West,1.0,7
+2.0,Kondapur,45000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,5.0,5.0,North,2.0,7
+3.0,Yapral,35000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1585.0,carpet-area,2.0,5.0,West,1.0,7
+3.0,"Narsingi, Outer Ring Road",72000.0,Furnished,3.0,Bachelors,Immediately,1860.0,super-area,2.0,40.0,West,3.0,7
+3.0,"Kukatpally, NH 9",85000.0,,,Bachelors/Family,Immediately,2840.0,super-area,,,,,7
+3.0,Gachibowli,52000.0,Semi-Furnished,3.0,Bachelors,Immediately,886.0,carpet-area,2.0,18.0,West,1.0,7
+2.0,"Sun City, Bandlaguda, Chevella Road",15000.0,Unfurnished,2.0,Family,Immediately,1150.0,carpet-area,1.0,3.0,East,1.0,7
+2.0,HUDA Layout Nalagandla,43000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,3.0,14.0,East,1.0,7
+3.0,"Pocharam, NH 2 2",18000.0,Semi-Furnished,3.0,Family,Immediately,1400.0,carpet-area,3.0,4.0,,1.0,7
+2.0,Kondapur,40000.0,Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,4.0,5.0,East,2.0,7
+2.0,Kompally,25000.0,Semi-Furnished,2.0,Bachelors,Immediately,764.0,carpet-area,2.0,10.0,West,1.0,7
+3.0,Hyderabad,40000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2200.0,super-area,3.0,5.0,,,7
+3.0,"Banjara Hills, NH 9",,Semi-Furnished,3.0,Bachelors,From Mar '26,3000.0,super-area,2.0,5.0,East,1.0,7
+2.0,"Pragathi Nagar, Kukatpally",18000.0,Unfurnished,2.0,Family,Immediately,797.0,carpet-area,4.0,5.0,West,1.0,7
+3.0,"Kokapet, Outer Ring Road",62000.0,Semi-Furnished,3.0,Bachelors,Immediately,1960.0,super-area,10.0,14.0,North,2.0,8
+3.0,"Narsingi, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1715.0,super-area,11.0,39.0,,,8
+2.0,Puppalguda,25000.0,Semi-Furnished,2.0,Bachelors,Immediately,1150.0,carpet-area,1.0,5.0,West,2.0,8
+3.0,Sri Ram Nagar Colony Banjara Hills,80000.0,Semi-Furnished,4.0,Bachelors,Immediately,2800.0,carpet-area,2.0,4.0,North,2.0,8
+2.0,Gachibowli,28000.0,Furnished,2.0,Bachelors,Immediately,1260.0,super-area,4.0,20.0,North - East,1.0,8
+3.0,"Pragathi Nagar, Kukatpally",18000.0,Furnished,3.0,Bachelors/Family,Immediately,1500.0,super-area,1.0,4.0,East,,8
+2.0,"Chilkanagar, Secunderabad",14999.0,Furnished,1.0,Bachelors/Family,Immediately,1100.0,super-area,1.0,3.0,North - East,1.0,8
+2.0,"Pocharam, NH 2 2",25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,5.0,14.0,West,1.0,8
+2.0,Himayatnagar,30000.0,Semi-Furnished,2.0,Bachelors,Immediately,900.0,carpet-area,1.0,3.0,East,2.0,8
+3.0,"Narsingi, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors,Immediately,1540.0,super-area,23.0,40.0,West,2.0,8
+3.0,Rajendranagar Mandal,45000.0,Furnished,2.0,Family,Immediately,1316.0,carpet-area,9.0,10.0,West,1.0,8
+4.0,"Uppal, NH 2 2",70000.0,Semi-Furnished,4.0,Bachelors/Family,Immediately,2988.0,super-area,6.0,24.0,,,8
+,"Narsingi, Outer Ring Road",75000.0,Furnished,4.0,Bachelors,Immediately,3128.0,carpet-area,5.0,5.0,West,1.0,8
+3.0,Kondapur,42000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1450.0,super-area,2.0,4.0,,,8
+3.0,Hyderabad,75000.0,Furnished,3.0,Bachelors/Family,Immediately,2452.0,carpet-area,1.0,5.0,,2.0,8
+3.0,"Kavuri Hills, Madhapur",,Furnished,3.0,Bachelors,Immediately,2800.0,carpet-area,2.0,5.0,North,2.0,8
+3.0,Jubilee Hills,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1300.0,carpet-area,2.0,4.0,North,2.0,8
+2.0,Rajendranagar Mandal,12000.0,Unfurnished,2.0,Bachelors/Family,Immediately,945.0,super-area,3.0,4.0,,,8
+2.0,Mythri Nagar Madeenaguda,60000.0,Unfurnished,2.0,Bachelors,Immediately,2630.0,carpet-area,6.0,6.0,East,,8
+2.0,Yapral,20000.0,Semi-Furnished,2.0,Bachelors,Immediately,1300.0,carpet-area,1.0,5.0,North,2.0,8
+1.0,Kondapur,25000.0,Furnished,1.0,Bachelors,Immediately,600.0,carpet-area,4.0,5.0,East,1.0,8
+3.0,Kompally,22000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1215.0,carpet-area,3.0,5.0,,1.0,8
+1.0,Kondapur,22000.0,Furnished,1.0,Bachelors,Immediately,550.0,carpet-area,3.0,5.0,East,1.0,8
+1.0,Sri Ram Nagar Kondapur,19000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,450.0,carpet-area,3.0,5.0,North - East,1.0,8
+3.0,Toli Chowki,29400.0,Unfurnished,3.0,Bachelors,Immediately,1420.0,super-area,3.0,7.0,East,2.0,8
+3.0,"Kokapet, Outer Ring Road",72000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1479.0,carpet-area,30.0,31.0,East,2.0,8
+1.0,Hyderabad,15000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,900.0,super-area,4.0,4.0,,,8
+2.0,APHB Colony Gachibowli,50000.0,Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,4.0,4.0,East,1.0,8
+1.0,Vijaya Nagar Colony,26000.0,Furnished,1.0,Bachelors,Immediately,640.0,super-area,1.0,3.0,,1.0,8
+2.0,"Kukatpally, NH 9",25000.0,Semi-Furnished,2.0,Bachelors,Immediately,1150.0,carpet-area,5.0,5.0,West,2.0,8
+2.0,Silpa Park,50000.0,Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,2.0,5.0,,2.0,9
+3.0,Gachibowli,,Furnished,5.0,Bachelors,Immediately,2531.0,carpet-area,9.0,9.0,West,2.0,9
+2.0,"Pragathi Nagar, Kukatpally",18000.0,Unfurnished,2.0,Bachelors,Immediately,800.0,carpet-area,5.0,5.0,North,1.0,9
+4.0,Gachibowli,,Semi-Furnished,5.0,Bachelors/Family,Immediately,3500.0,carpet-area,3.0,14.0,East,4.0,9
+3.0,"Kokapet, Outer Ring Road",55000.0,Semi-Furnished,3.0,Bachelors,Immediately,2615.0,carpet-area,,20.0,East,2.0,9
+3.0,"Quthbullapur, NH 7",14000.0,Furnished,2.0,Bachelors/Family,Immediately,750.0,carpet-area,4.0,5.0,,2.0,9
+2.0,Gachibowli,24000.0,Furnished,2.0,Bachelors,Immediately,1280.0,carpet-area,4.0,8.0,East,2.0,9
+3.0,Nalagandla,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1960.0,super-area,4.0,14.0,,,9
+2.0,"Banjara Hills, NH 9",45000.0,Furnished,2.0,Bachelors,Immediately,1275.0,carpet-area,4.0,5.0,West,3.0,9
+3.0,Sultan Bazar,12500.0,Semi-Furnished,2.0,Bachelors,Immediately,600.0,carpet-area,3.0,5.0,,1.0,9
+3.0,Yapral,28000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1580.0,super-area,5.0,5.0,,,9
+3.0,Radha Krishna Nagar Attapur,59480.0,Semi-Furnished,3.0,Bachelors,Immediately,2135.0,super-area,4.0,10.0,West,1.0,9
+2.0,Gachibowli,,Furnished,2.0,Bachelors/Family,Immediately,1200.0,carpet-area,2.0,10.0,,1.0,9
+4.0,Kondapur,,Semi-Furnished,4.0,Bachelors,Immediately,4095.0,super-area,7.0,19.0,East,2.0,9
+3.0,"Banjara Hills, NH 9",80000.0,Furnished,3.0,Bachelors,Immediately,3100.0,carpet-area,1.0,4.0,,2.0,9
+2.0,Hyderabad,22000.0,Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,4.0,5.0,,,9
+3.0,Kondapur,42000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1500.0,carpet-area,4.0,5.0,East,3.0,9
+2.0,"Bolarum, Medchal Road",10000.0,Unfurnished,2.0,Family,Immediately,900.0,super-area,3.0,4.0,West,,9
+3.0,"Kokapet, Outer Ring Road",60000.0,Semi-Furnished,4.0,Family,Immediately,2100.0,carpet-area,3.0,19.0,West,2.0,9
+3.0,"Kokapet, Outer Ring Road",70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1300.0,carpet-area,20.0,36.0,East,1.0,9
+3.0,Sainikpuri,13000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1260.0,carpet-area,1.0,4.0,,2.0,9
+1.0,Kondapur,25000.0,Furnished,1.0,Bachelors/Family,Immediately,510.0,carpet-area,5.0,6.0,East,1.0,9
+3.0,Nalagandla,58000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,11.0,15.0,,,9
+1.0,Manikonda Jagir,20000.0,Unfurnished,1.0,Bachelors/Family,Immediately,465.0,super-area,1.0,6.0,,,9
+3.0,Khajaguda,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1384.0,carpet-area,12.0,13.0,North - East,1.0,9
+3.0,Kalapuram Basti,33000.0,Semi-Furnished,4.0,Bachelors/Family,Immediately,1600.0,carpet-area,1.0,4.0,East,1.0,9
+2.0,"Kukatpally, NH 9",13000.0,Unfurnished,2.0,Bachelors/Family,Immediately,900.0,super-area,3.0,5.0,,,9
+3.0,Bandlaguda Jagir,30000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,2.0,2.0,,,9
+3.0,Raji Reddy Nagar New Santoshnagar,14500.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1350.0,super-area,1.0,2.0,,,9
+3.0,Bandari Layout,18500.0,Semi-Furnished,2.0,Bachelors,Immediately,1400.0,super-area,4.0,5.0,North,2.0,9
+3.0,"Alkapur Township, Manikonda, Outer Ring Road",60000.0,Furnished,3.0,Bachelors/Family,Immediately,1702.0,super-area,1.0,6.0,,,10
+2.0,Hyderabad,20000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,3.0,3.0,,,10
+3.0,"Kokapet, Outer Ring Road",80000.0,Furnished,3.0,Bachelors,Immediately,2105.0,super-area,11.0,14.0,East,2.0,10
+3.0,Kompally,42000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,1815.0,super-area,5.0,5.0,,,10
+3.0,Nanakaramguda,75000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1710.0,super-area,13.0,24.0,,,10
+2.0,Borabanda,25000.0,Semi-Furnished,3.0,Bachelors,Immediately,1150.0,carpet-area,2.0,3.0,East,1.0,10
+3.0,"Gulmohar Park Colony, Serilingampally",55000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1900.0,carpet-area,15.0,22.0,East,,10
+3.0,"Miyapur, NH 9",50000.0,Furnished,3.0,Bachelors/Family,Immediately,1925.0,super-area,11.0,14.0,West,3.0,10
+2.0,Kukatpally Housing Board Road,20000.0,Unfurnished,2.0,Bachelors,Immediately,1000.0,super-area,3.0,3.0,West,2.0,10
+2.0,Hastinapuram,13000.0,Semi-Furnished,2.0,Bachelors,Immediately,1250.0,carpet-area,2.0,3.0,East,1.0,10
+4.0,Hitech City,,Furnished,4.0,Bachelors/Family,Immediately,4070.0,carpet-area,14.0,35.0,East,3.0,10
+3.0,"Quthbullapur, NH 7",14000.0,Furnished,2.0,Bachelors,Immediately,750.0,carpet-area,4.0,5.0,East,,10
+,Kondapur,18000.0,Furnished,1.0,Bachelors/Family,Immediately,365.0,super-area,2.0,5.0,East,1.0,10
+3.0,Kondapur,91000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2290.0,super-area,9.0,25.0,East,2.0,10
+3.0,Nalagandla,43000.0,Semi-Furnished,2.0,Bachelors,Immediately,1019.0,carpet-area,2.0,22.0,East,2.0,10
+3.0,"Kokapet, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1840.0,super-area,9.0,22.0,East,,10
+3.0,"Narsingi, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1760.0,carpet-area,15.0,28.0,,,10
+3.0,Kondapur,80000.0,Semi-Furnished,3.0,Bachelors,Immediately,2020.0,super-area,9.0,20.0,East,1.0,10
+3.0,Kondapur,,Semi-Furnished,3.0,Bachelors,Immediately,2215.0,super-area,12.0,20.0,West,1.0,10
+3.0,"Ghatkesar, NH 2 2",16000.0,Semi-Furnished,3.0,Bachelors,Immediately,1599.0,super-area,5.0,9.0,South,2.0,10
+3.0,Kondapur,40000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1500.0,carpet-area,5.0,5.0,East,3.0,10
+3.0,"Narsingi, Outer Ring Road",90000.0,Semi-Furnished,3.0,Bachelors,Immediately,2660.0,super-area,31.0,39.0,East,1.0,10
+3.0,"Mallampet, Outer Ring Road",32000.0,Furnished,3.0,Bachelors,Immediately,1377.0,super-area,2.0,5.0,East,1.0,10
+3.0,Hyderabad,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1882.0,super-area,16.0,30.0,,,10
+2.0,"Miyapur, NH 9",14000.0,Semi-Furnished,2.0,Bachelors,Immediately,900.0,super-area,2.0,3.0,North,1.0,10
+2.0,Venkateswara Colony Banjara Hills,30000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,2000.0,super-area,2.0,4.0,,,10
+1.0,Raghavendra Colony Kondapur,15000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,800.0,carpet-area,1.0,3.0,,1.0,10
+3.0,Alkapoor,65000.0,Semi-Furnished,3.0,Bachelors,Immediately,1890.0,carpet-area,2.0,5.0,,3.0,10
+3.0,Hyderabad,60000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1850.0,super-area,2.0,5.0,,,10
+3.0,Bachupally,27000.0,Semi-Furnished,3.0,Bachelors,From Mar '26,1600.0,carpet-area,1.0,5.0,,2.0,10
+3.0,"Narsingi, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1715.0,super-area,14.0,39.0,West,1.0,11
+3.0,"Kokapet, Outer Ring Road",79000.0,Semi-Furnished,3.0,Family,Immediately,2124.0,super-area,30.0,34.0,West,2.0,11
+3.0,"Narsingi, Outer Ring Road",76000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2335.0,super-area,33.0,39.0,East,3.0,11
+3.0,"Tellapur, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors,Immediately,1926.0,super-area,18.0,39.0,East,1.0,11
+3.0,"Ghatkesar, NH 2 2",16000.0,Furnished,3.0,Bachelors,Immediately,1360.0,carpet-area,3.0,7.0,East,1.0,11
+4.0,Masab Tank,,Semi-Furnished,5.0,Bachelors/Family,Immediately,2200.0,carpet-area,5.0,7.0,,4.0,11
+3.0,"Financial District, Nanakram Guda",90000.0,Furnished,3.0,Bachelors,Immediately,2800.0,carpet-area,4.0,9.0,West,4.0,11
+3.0,Kondapur,42000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1600.0,carpet-area,1.0,5.0,West,2.0,11
+3.0,Izzathnagar,95000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1408.0,carpet-area,37.0,42.0,West,2.0,11
+3.0,"Narsingi, Outer Ring Road",76000.0,Semi-Furnished,3.0,Family,Immediately,2020.0,super-area,26.0,35.0,East,2.0,11
+3.0,"Tellapur, Outer Ring Road",45000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1505.0,super-area,21.0,29.0,,2.0,11
+2.0,Nanakaramguda,35000.0,Furnished,2.0,Bachelors/Family,Immediately,850.0,super-area,23.0,24.0,,,11
+3.0,Hyderabad,62000.0,Furnished,3.0,Bachelors/Family,Immediately,2045.0,carpet-area,7.0,15.0,,2.0,11
+3.0,Madhapur,37000.0,Semi-Furnished,2.0,Bachelors,Immediately,1350.0,carpet-area,3.0,6.0,West,1.0,11
+3.0,Gachibowli,75000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2020.0,super-area,20.0,39.0,West,2.0,11
+3.0,Gachibowli,75000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2020.0,super-area,20.0,39.0,West,2.0,11
+2.0,Masab Tank,18000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1000.0,super-area,4.0,5.0,,,11
+3.0,Peeramcheru,38000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,3.0,5.0,West,1.0,11
+2.0,"Chintal Basti, Secunderabad",10500.0,Unfurnished,3.0,Bachelors/Family,Immediately,1000.0,carpet-area,2.0,4.0,North - East,2.0,11
+3.0,"Narsingi, Outer Ring Road",75000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2335.0,super-area,24.0,39.0,East,2.0,11
+3.0,Kompally,29000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1200.0,carpet-area,1.0,5.0,West,3.0,11
+2.0,Mothi Nagar Borabanda,24500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,850.0,carpet-area,5.0,5.0,West,1.0,11
+2.0,"Miyapur, NH 9",29000.0,Semi-Furnished,2.0,Bachelors,Immediately,1211.0,carpet-area,,8.0,West,1.0,11
+1.0,Nagole,9000.0,Unfurnished,1.0,Bachelors/Family,Immediately,545.0,super-area,9.0,9.0,,2.0,11
+3.0,Nalagandla,55000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1560.0,super-area,5.0,25.0,East,1.0,11
+2.0,Ashok Nagar Himayatnagar,22500.0,Semi-Furnished,2.0,Bachelors,Immediately,1050.0,carpet-area,2.0,4.0,,3.0,11
+4.0,Kondapur,,Semi-Furnished,6.0,Bachelors/Family,Immediately,2965.0,super-area,8.0,11.0,,,11
+3.0,Nanakaramguda,70000.0,Furnished,3.0,Bachelors,Immediately,2160.0,carpet-area,6.0,26.0,North - West,2.0,11
+3.0,Nalagandla,65000.0,Semi-Furnished,3.0,Bachelors,Immediately,1212.0,carpet-area,23.0,26.0,South,1.0,11
+4.0,Begumpet,75000.0,Furnished,3.0,Bachelors/Family,Immediately,2700.0,carpet-area,3.0,5.0,,3.0,11
+3.0,Gachibowli,,Semi-Furnished,3.0,Bachelors/Family,Immediately,1451.0,carpet-area,15.0,30.0,South,,12
+3.0,Kondapur,65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1766.0,super-area,4.0,10.0,,1.0,12
+3.0,"Kokapet, Outer Ring Road",70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1796.0,super-area,5.0,34.0,East,2.0,12
+3.0,Kavuri Hills Madhapur,62000.0,Furnished,3.0,Bachelors/Family,Immediately,1500.0,carpet-area,3.0,5.0,,1.0,12
+2.0,Kistareddypet,11000.0,Semi-Furnished,2.0,Family,Immediately,1110.0,super-area,2.0,5.0,East,,12
+2.0,"Narsingi, Outer Ring Road",50000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1375.0,carpet-area,,15.0,East,1.0,12
+3.0,Hyderabad,40000.0,Semi-Furnished,3.0,Bachelors,Immediately,1250.0,carpet-area,,14.0,East,1.0,12
+2.0,"Saroornagar, NH 9",15000.0,Semi-Furnished,2.0,Bachelors,Immediately,1080.0,super-area,2.0,4.0,East,,12
+2.0,Bachupally,30000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,700.0,carpet-area,7.0,33.0,East,1.0,12
+2.0,"Uppal, NH 2 2",20000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,3.0,3.0,,,12
+2.0,"Kukatpally, NH 9",24000.0,Unfurnished,2.0,Bachelors,Immediately,1200.0,carpet-area,2.0,4.0,North,2.0,12
+3.0,"Financial District, Nanakram Guda",45000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1300.0,carpet-area,17.0,25.0,North,1.0,12
+3.0,Kompally,42000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,1815.0,super-area,5.0,5.0,,1.0,12
+3.0,Puppalguda,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1722.0,super-area,1.0,5.0,,,12
+3.0,"Narsingi, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors,Immediately,1715.0,super-area,21.0,39.0,West,1.0,12
+3.0,"Patrika Nagar, Hitech City",42000.0,Unfurnished,3.0,Bachelors/Family,From Mar '26,1800.0,carpet-area,4.0,5.0,East,2.0,12
+2.0,Shaikpet,21500.0,Unfurnished,2.0,Bachelors,Immediately,950.0,carpet-area,4.0,6.0,East,1.0,12
+3.0,Phase 4 KPHB,30000.0,Semi-Furnished,2.0,Bachelors/Family,From May '26,1101.0,carpet-area,3.0,5.0,West,2.0,12
+3.0,Kondapur,63000.0,Furnished,3.0,Bachelors/Family,Immediately,1900.0,carpet-area,4.0,4.0,North - East,3.0,12
+2.0,Kushaiguda,10000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,2.0,3.0,North,2.0,12
+3.0,Gopanpalle,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1850.0,super-area,2.0,5.0,,,12
+4.0,Gachibowli,60000.0,Unfurnished,3.0,Bachelors/Family,Immediately,2600.0,carpet-area,1.0,12.0,West,1.0,12
+5.0,Jubilee Hills,,Semi-Furnished,5.0,Bachelors/Family,Immediately,4050.0,super-area,3.0,5.0,,,12
+3.0,Sainikpuri,20000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1500.0,carpet-area,2.0,5.0,East,1.0,12
+1.0,Miyapur Road,15000.0,Unfurnished,1.0,Bachelors,Immediately,750.0,carpet-area,1.0,2.0,North,,12
+3.0,Manikonda Jagir,80000.0,Furnished,4.0,Bachelors/Family,Immediately,2600.0,carpet-area,11.0,32.0,,2.0,12
+4.0,Hitech City,,Semi-Furnished,4.0,Bachelors,Immediately,3347.0,super-area,,12.0,West,3.0,12
+4.0,Jubilee Hills,,Unfurnished,4.0,Bachelors,Immediately,4127.0,carpet-area,1.0,8.0,North - East,1.0,12
+3.0,Kothaguda,85000.0,Furnished,3.0,Bachelors/Family,Immediately,2813.0,super-area,6.0,7.0,,,12
+2.0,"Miyapur, NH 9",42000.0,Furnished,2.0,Family,Immediately,1245.0,carpet-area,1.0,14.0,North - East,1.0,12
+3.0,"Kokapet, Outer Ring Road",61000.0,Semi-Furnished,3.0,Family,Immediately,2100.0,carpet-area,3.0,19.0,West,2.0,13
+1.0,Madhapur,14000.0,Furnished,1.0,Bachelors,Immediately,710.0,carpet-area,6.0,13.0,North - East,1.0,13
+3.0,Himayatnagar,70000.0,Furnished,3.0,Bachelors/Family,Immediately,1300.0,super-area,2.0,6.0,,1.0,13
+2.0,Gachibowli,34000.0,Furnished,2.0,Bachelors,Immediately,750.0,carpet-area,4.0,4.0,North,1.0,13
+2.0,Chanda Nagar,34000.0,Unfurnished,2.0,Bachelors,Immediately,1112.0,carpet-area,7.0,12.0,West,1.0,13
+3.0,"Narsingi, Outer Ring Road",70000.0,Semi-Furnished,3.0,Family,Immediately,1750.0,carpet-area,12.0,30.0,East,2.0,13
+3.0,Hyderabad,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,13.0,24.0,,,13
+3.0,"Kokapet, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2250.0,carpet-area,2.0,19.0,West,2.0,13
+3.0,Bachupally,36000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2064.0,carpet-area,4.0,5.0,North,4.0,13
+3.0,"Tellapur, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors,Immediately,1926.0,super-area,12.0,39.0,West,1.0,13
+3.0,"Narsingi, Outer Ring Road",75000.0,Semi-Furnished,3.0,Family,Immediately,1950.0,carpet-area,10.0,30.0,West,2.0,13
+3.0,"Miyapur, NH 9",27000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1327.0,super-area,1.0,5.0,East,,13
+2.0,Adikmet,13000.0,Unfurnished,2.0,Bachelors,Immediately,830.0,carpet-area,4.0,4.0,East,2.0,13
+3.0,Nalagandla,65000.0,Semi-Furnished,3.0,Bachelors,Immediately,2400.0,super-area,6.0,24.0,East,2.0,13
+3.0,Kondapur,,Semi-Furnished,3.0,Bachelors,From Apr '26,2625.0,super-area,9.0,20.0,North,2.0,13
+2.0,Srivani Nagar,18000.0,Unfurnished,2.0,Bachelors/Family,Immediately,900.0,super-area,1.0,3.0,East,,13
+3.0,"Tellapur, Outer Ring Road",55000.0,Semi-Furnished,2.0,Bachelors,Immediately,1573.0,super-area,14.0,39.0,East,1.0,13
+3.0,Shaikpet,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1875.0,super-area,10.0,23.0,,,13
+3.0,Hyderabad,90000.0,Unfurnished,3.0,Bachelors/Family,Immediately,2530.0,super-area,,23.0,,,13
+3.0,Gachibowli,74000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1920.0,super-area,19.0,29.0,East,1.0,13
+2.0,"Sun City, Bandlaguda, Chevella Road",16000.0,Unfurnished,1.0,Bachelors/Family,Immediately,1300.0,carpet-area,1.0,3.0,North - East,1.0,13
+1.0,Kondapur,25000.0,Furnished,1.0,Bachelors/Family,Immediately,460.0,carpet-area,2.0,6.0,East,1.0,13
+2.0,Old MIG,25000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,3.0,East,,13
+2.0,"Alkapur Township, Manikonda, Outer Ring Road",17000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,1.0,5.0,,2.0,13
+3.0,Gachibowli,75000.0,Semi-Furnished,3.0,Family,Immediately,1741.0,carpet-area,15.0,20.0,West,3.0,13
+1.0,Begumpet,17500.0,Semi-Furnished,1.0,Bachelors,Immediately,700.0,carpet-area,1.0,2.0,North - West,3.0,13
+2.0,Nizampet,17000.0,Unfurnished,2.0,Bachelors/Family,Immediately,950.0,super-area,2.0,5.0,,,13
+2.0,Shaikpet,26000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1120.0,carpet-area,3.0,5.0,East,2.0,13
+3.0,Ameerpet,60000.0,Furnished,3.0,Bachelors/Family,Immediately,2100.0,super-area,5.0,5.0,West,,13
+4.0,Kondapur,,Semi-Furnished,5.0,Bachelors,Immediately,3420.0,super-area,4.0,20.0,West,2.0,13
+3.0,Gachibowli,75000.0,Semi-Furnished,4.0,Bachelors,Immediately,2440.0,super-area,5.0,14.0,East,1.0,14
+3.0,Kondapur,65000.0,Unfurnished,3.0,Bachelors,Immediately,1955.0,super-area,10.0,19.0,East,2.0,14
+3.0,Alkapoor,28000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1650.0,carpet-area,2.0,5.0,West,1.0,14
+3.0,Puppalguda,65000.0,Unfurnished,3.0,Bachelors,Immediately,2300.0,super-area,5.0,14.0,East,1.0,14
+2.0,"Old Malakpet, NH 9",13500.0,Unfurnished,2.0,Bachelors,Immediately,970.0,carpet-area,2.0,3.0,West,1.0,14
+3.0,Hyderabad,65000.0,Furnished,3.0,Bachelors/Family,Immediately,1850.0,carpet-area,3.0,4.0,East,2.0,14
+4.0,Gachibowli,60000.0,Semi-Furnished,4.0,Bachelors/Family,Immediately,2600.0,super-area,14.0,14.0,,,14
+3.0,Beeramguda Ramachandrapuram,26000.0,Semi-Furnished,3.0,Family,Immediately,1241.0,carpet-area,5.0,5.0,East,2.0,14
+2.0,Almasguda,15000.0,Semi-Furnished,2.0,Family,Immediately,1000.0,super-area,3.0,4.0,East,1.0,14
+2.0,New Malakpet,17000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,850.0,super-area,3.0,6.0,,,14
+3.0,"Pocharam, NH 2 2",15000.0,Furnished,3.0,Bachelors/Family,Immediately,1360.0,super-area,4.0,7.0,,1.0,14
+3.0,"Pocharam, NH 2 2",25000.0,Furnished,2.0,Bachelors/Family,Immediately,1475.0,carpet-area,7.0,15.0,,2.0,14
+3.0,"Banjara Hills, NH 9",,Semi-Furnished,3.0,Bachelors/Family,Immediately,2300.0,super-area,5.0,5.0,,3.0,14
+3.0,"Tellapur, Outer Ring Road",55000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1573.0,super-area,33.0,39.0,,1.0,14
+3.0,"Hafeezpet, NH 9",50000.0,Unfurnished,3.0,Bachelors,Immediately,1800.0,super-area,12.0,14.0,West,3.0,14
+2.0,Hyderabad,25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1111.0,super-area,4.0,9.0,,,14
+3.0,Happy Homes Colony Expressway,24999.0,Unfurnished,2.0,Bachelors/Family,Immediately,1550.0,super-area,5.0,6.0,East,2.0,14
+3.0,Madhapur,65000.0,Furnished,3.0,Bachelors/Family,Immediately,2600.0,carpet-area,2.0,9.0,,3.0,14
+3.0,Kondapur,65000.0,Unfurnished,3.0,Bachelors,Immediately,3000.0,carpet-area,7.0,7.0,North,2.0,14
+2.0,Hyderabad,16000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,940.0,carpet-area,3.0,5.0,,2.0,14
+3.0,OU Colony Shaikpet,22000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1600.0,carpet-area,2.0,6.0,,2.0,14
+2.0,"Hafeezpet, NH 9",18000.0,Unfurnished,2.0,Bachelors/Family,Immediately,800.0,super-area,3.0,4.0,,,14
+3.0,Kondapur,65000.0,Semi-Furnished,3.0,Family,Immediately,1850.0,carpet-area,19.0,36.0,East,2.0,14
+3.0,Puppalguda,32000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,4.0,5.0,East,,14
+3.0,"Narsingi, Outer Ring Road",85000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2000.0,carpet-area,11.0,29.0,East,,14
+4.0,Secunderabad,16000.0,Unfurnished,3.0,Bachelors/Family,Immediately,920.0,super-area,1.0,3.0,,,14
+1.0,"Miyapur, NH 9",14000.0,Furnished,1.0,Bachelors/Family,Immediately,750.0,carpet-area,1.0,1.0,,1.0,14
+2.0,Bachupally,35000.0,Furnished,2.0,Bachelors,Immediately,1110.0,super-area,20.0,33.0,West,1.0,14
+2.0,Kompally,23000.0,Furnished,2.0,Bachelors/Family,Immediately,1240.0,super-area,5.0,5.0,,,14
+3.0,Balaji Nagar Gudimalkapur,25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,,,4.0,4.0,,3.0,14
+3.0,"Hafeezpet, NH 9",45000.0,Semi-Furnished,3.0,Bachelors,Immediately,2000.0,super-area,1.0,14.0,West,3.0,15
+3.0,"Financial District, Nanakram Guda",90000.0,Furnished,3.0,Bachelors/Family,Immediately,2900.0,super-area,4.0,9.0,,4.0,15
+3.0,Kondapur,80000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2595.0,super-area,18.0,26.0,West,2.0,15
+3.0,"Kokapet, Outer Ring Road",80000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1250.0,carpet-area,4.0,35.0,East,2.0,15
+2.0,"Uppal, NH 2 2",16000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,2.0,5.0,,1.0,15
+2.0,Gandhinagar Aliabad,,Unfurnished,2.0,Bachelors/Family,Immediately,1085.0,super-area,1.0,4.0,,,15
+2.0,Kakatiya Nagar Ramachandrapuram,8000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,500.0,super-area,1.0,4.0,,2.0,15
+2.0,"Miyapur, NH 9",23000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1000.0,carpet-area,1.0,5.0,East,1.0,15
+4.0,Gachibowli,,Furnished,5.0,Family,Immediately,4500.0,super-area,6.0,24.0,East,2.0,15
+,"Boduppal, NH 2 2",6500.0,Unfurnished,1.0,Bachelors/Family,Immediately,300.0,super-area,,3.0,,,15
+2.0,"Kukatpally Housing Board Colony, NH 9",25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,3.0,,2.0,15
+3.0,Hitech City,,Unfurnished,4.0,Bachelors,Immediately,3200.0,carpet-area,5.0,30.0,North - West,2.0,15
+2.0,Vishnupuri Extension,14500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1400.0,super-area,2.0,2.0,,,15
+2.0,Gachibowli,36000.0,Furnished,2.0,Bachelors,Immediately,700.0,carpet-area,4.0,4.0,North,1.0,15
+1.0,Gachibowli,13000.0,Furnished,1.0,Bachelors/Family,Immediately,710.0,super-area,5.0,28.0,,1.0,15
+2.0,Nizampet,17000.0,Unfurnished,2.0,Bachelors,Immediately,1400.0,super-area,3.0,5.0,East,,15
+1.0,Anjaiah Nagar Gachibowli,6000.0,Furnished,1.0,Bachelors/Family,Immediately,900.0,carpet-area,3.0,5.0,East,,15
+3.0,"Miyapur, NH 9",40000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,1400.0,carpet-area,4.0,10.0,,2.0,15
+3.0,"Narsingi, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1715.0,carpet-area,,18.0,East,1.0,15
+2.0,"Machabollaram, Medchal Road",,Furnished,2.0,Bachelors,Immediately,1100.0,carpet-area,3.0,5.0,West,1.0,15
+3.0,"Manchirevula, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1850.0,carpet-area,5.0,5.0,East,1.0,15
+2.0,Tarnaka,16000.0,Semi-Furnished,2.0,Bachelors/Family,From Mar '26,1150.0,super-area,2.0,4.0,,,15
+3.0,Begumpet,41000.0,Furnished,3.0,Bachelors/Family,Immediately,1900.0,carpet-area,1.0,2.0,North - West,3.0,15
+1.0,Hyderabad,18000.0,Unfurnished,1.0,Bachelors/Family,Immediately,650.0,super-area,2.0,4.0,,,15
+2.0,"Narsingi, Outer Ring Road",55500.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,924.0,carpet-area,29.0,31.0,East,1.0,15
+2.0,Old Alwal,10000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,781.0,super-area,1.0,5.0,South,2.0,15
+2.0,Pothreddipalle,12000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1000.0,carpet-area,1.0,2.0,North - East,2.0,15
+2.0,Chanda Nagar,11000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,800.0,super-area,5.0,9.0,,1.0,15
+3.0,Appa Junction Area,32000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1800.0,super-area,2.0,7.0,,1.0,15
+3.0,"Kollur, Outer Ring Road",35000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1605.0,super-area,3.0,8.0,East,3.0,15
+3.0,"Bongloor, Outer Ring Road",20000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1200.0,carpet-area,6.0,7.0,,1.0,16
+1.0,Ameenpur,6000.0,Unfurnished,1.0,Bachelors/Family,Immediately,300.0,super-area,2.0,2.0,,,16
+3.0,Kondapur,32000.0,Semi-Furnished,3.0,Bachelors,Immediately,1700.0,carpet-area,2.0,4.0,East,2.0,16
+3.0,Mithila Nagar Pragathi Nagar,21000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1500.0,super-area,,1.0,North - East,,16
+3.0,Chanda Nagar,30000.0,Furnished,2.0,Family,Immediately,1300.0,super-area,3.0,5.0,West,2.0,16
+3.0,Whitefields,60000.0,Furnished,3.0,Bachelors/Family,Immediately,2702.0,carpet-area,3.0,4.0,East,2.0,16
+2.0,Attapur Main Road,15000.0,Unfurnished,2.0,Bachelors,Immediately,900.0,super-area,1.0,3.0,,2.0,16
+2.0,Nizampet,17000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,super-area,1.0,5.0,,,16
+2.0,Manikonda Jagir,30000.0,Semi-Furnished,2.0,Bachelors,From Mar '26,1075.0,carpet-area,4.0,5.0,South -West,1.0,16
+3.0,Kondapur,50000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1852.0,carpet-area,3.0,4.0,North,2.0,16
+3.0,Gopanpalle,60000.0,Unfurnished,3.0,Bachelors,Immediately,1785.0,super-area,6.0,30.0,East,1.0,16
+3.0,"Banjara Hills, NH 9",,Furnished,4.0,Family,Immediately,3665.0,carpet-area,3.0,4.0,South,2.0,16
+3.0,Gachibowli,80000.0,Furnished,3.0,Bachelors/Family,From Apr '26,1700.0,super-area,2.0,14.0,East,1.0,16
+2.0,"Narsingi, Outer Ring Road",40000.0,Furnished,2.0,Bachelors/Family,Immediately,900.0,carpet-area,5.0,5.0,East,1.0,16
+4.0,"Kokapet, Outer Ring Road",75000.0,Semi-Furnished,4.0,Bachelors/Family,Immediately,2580.0,super-area,10.0,19.0,,,16
+3.0,Nalagandla,45000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1870.0,carpet-area,1.0,13.0,East,1.0,16
+3.0,Gachibowli,90000.0,Furnished,5.0,Bachelors/Family,Immediately,2440.0,super-area,7.0,11.0,,,16
+2.0,"Peerzadiguda, NH 2 2",12000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1368.0,carpet-area,,2.0,East,1.0,16
+1.0,"Hafeezpet, NH 9",14000.0,Furnished,1.0,Bachelors,Immediately,616.0,carpet-area,6.0,19.0,East,1.0,16
+4.0,Madhapur,80000.0,Furnished,4.0,Bachelors,Immediately,1800.0,carpet-area,1.0,7.0,East,2.0,16
+3.0,"Manchirevula, Outer Ring Road",,Unfurnished,2.0,Bachelors/Family,Immediately,1300.0,super-area,2.0,3.0,,,16
+2.0,Hyderabad,17000.0,Unfurnished,1.0,Bachelors/Family,Immediately,650.0,super-area,1.0,5.0,South,,16
+3.0,"Kokapet, Outer Ring Road",75000.0,Unfurnished,3.0,Bachelors/Family,Immediately,2235.0,super-area,22.0,32.0,,,16
+2.0,Mayuri Nagar Miyapur,15000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,5.0,West,1.0,16
+4.0,Khajaguda,50000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2600.0,carpet-area,11.0,12.0,,,16
+2.0,Phase 2 KPHB,27000.0,Unfurnished,2.0,Family,Immediately,1400.0,carpet-area,1.0,2.0,East,3.0,16
+3.0,"Kokapet, Outer Ring Road",69000.0,Furnished,3.0,Family,Immediately,1957.0,super-area,22.0,34.0,East,,16
+2.0,Kompally,30000.0,Furnished,2.0,Family,Immediately,1440.0,super-area,5.0,6.0,West,,16
+4.0,Kukatpally Housing Board Road,75000.0,Furnished,5.0,Bachelors/Family,Immediately,2450.0,super-area,4.0,5.0,,,16
+1.0,Hyderabad,85000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,600.0,carpet-area,3.0,4.0,,,16
+2.0,Manikonda Jagir,27000.0,Unfurnished,2.0,Bachelors/Family,From Apr '26,1100.0,carpet-area,1.0,1.0,,1.0,17
+3.0,Mithila Nagar Banjara Hills,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2100.0,carpet-area,1.0,4.0,East,1.0,17
+4.0,"Kokapet, Outer Ring Road",,Semi-Furnished,5.0,Bachelors/Family,Immediately,2708.0,super-area,12.0,35.0,,2.0,17
+3.0,OU Colony Shaikpet,55000.0,Semi-Furnished,3.0,Family,Immediately,1715.0,carpet-area,3.0,5.0,East,1.0,17
+2.0,"Tellapur, Outer Ring Road",46000.0,Semi-Furnished,2.0,Bachelors,Immediately,1355.0,super-area,14.0,30.0,West,1.0,17
+3.0,Gachibowli,50000.0,Furnished,3.0,Bachelors/Family,Immediately,1953.0,super-area,20.0,30.0,,,17
+3.0,Kondapur,50000.0,Furnished,3.0,Bachelors/Family,Immediately,2000.0,super-area,5.0,6.0,,,17
+3.0,Madhapur,38000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1350.0,carpet-area,2.0,5.0,East,2.0,17
+2.0,"Kukatpally Housing Board Colony, NH 9",53000.0,Unfurnished,2.0,Bachelors,Immediately,1476.0,super-area,6.0,30.0,East,2.0,17
+3.0,Gachibowli,70000.0,Semi-Furnished,3.0,Family,Immediately,1993.0,carpet-area,22.0,34.0,East,1.0,17
+3.0,"Narsingi, Outer Ring Road",55000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1600.0,carpet-area,2.0,8.0,East,1.0,17
+3.0,"Boduppal, NH 2 2",25000.0,Furnished,2.0,Bachelors,Immediately,1250.0,carpet-area,5.0,5.0,,2.0,17
+3.0,Manikonda Jagir,38000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1725.0,carpet-area,4.0,5.0,,1.0,17
+2.0,Hyderabad,25000.0,Furnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,4.0,5.0,,,17
+3.0,Puppalguda,35000.0,Semi-Furnished,2.0,Bachelors,Immediately,1250.0,carpet-area,3.0,5.0,North,1.0,17
+3.0,Gachibowli,70007.0,Semi-Furnished,3.0,Bachelors,Immediately,2360.0,super-area,1.0,14.0,East,3.0,17
+3.0,Moti Nagar Erragadda,60000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1583.0,super-area,10.0,15.0,,2.0,17
+3.0,Gachibowli,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2900.0,carpet-area,6.0,9.0,West,3.0,17
+3.0,Suchitra,28000.0,Furnished,2.0,Bachelors/Family,From Apr '26,1850.0,super-area,8.0,9.0,,1.0,17
+3.0,Gachibowli,80000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,carpet-area,2.0,4.0,,2.0,17
+3.0,Kondapur,65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1850.0,super-area,11.0,25.0,,,17
+4.0,Kondapur,85000.0,Semi-Furnished,3.0,Family,Immediately,2705.0,super-area,13.0,18.0,West,1.0,17
+3.0,Rangapuram Miyapur,50000.0,Semi-Furnished,2.0,Bachelors,Immediately,1495.0,carpet-area,10.0,12.0,East,3.0,17
+1.0,Kondapur,22000.0,Furnished,1.0,Bachelors/Family,Immediately,500.0,carpet-area,4.0,5.0,East,1.0,17
+1.0,Mayuri Nagar Miyapur,19000.0,Unfurnished,1.0,Family,Immediately,690.0,carpet-area,3.0,9.0,,1.0,17
+3.0,Jeedimetla,23500.0,Unfurnished,3.0,Bachelors,Immediately,1650.0,super-area,4.0,7.0,,1.0,17
+2.0,Nalagandla,45000.0,Furnished,2.0,Bachelors/Family,Immediately,1245.0,super-area,3.0,14.0,,,17
+,Begampet,8000.0,Semi-Furnished,,Bachelors/Family,Immediately,200.0,super-area,4.0,5.0,,,17
+2.0,"Hafeezpet, NH 9",32000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1290.0,super-area,2.0,4.0,,,17
+3.0,Manikonda Jagir,60000.0,Semi-Furnished,3.0,Family,Immediately,2500.0,carpet-area,1.0,10.0,East,2.0,17
+4.0,Gachibowli,,Semi-Furnished,4.0,Bachelors/Family,Immediately,4340.0,super-area,2.0,14.0,East,4.0,18
+3.0,Puppalguda,70000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1128.0,carpet-area,20.0,32.0,East,2.0,18
+3.0,"Punjagutta, NH 9",60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1328.0,carpet-area,2.0,5.0,North,1.0,18
+2.0,Hyderabad,22000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,3.0,,,18
+2.0,Jillalguda,20000.0,Semi-Furnished,2.0,Bachelors,Immediately,1140.0,super-area,2.0,5.0,West,1.0,18
+3.0,Ameenpur,30000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1043.0,super-area,4.0,10.0,,,18
+2.0,Hyderabad,28000.0,Semi-Furnished,2.0,Bachelors,Immediately,1050.0,carpet-area,2.0,6.0,East,1.0,18
+2.0,Venkata Ramana Colony Kukatpally,25000.0,Unfurnished,2.0,Bachelors/Family,Immediately,900.0,super-area,3.0,6.0,,,18
+4.0,Gachibowli,90000.0,Furnished,3.0,Bachelors/Family,Immediately,3625.0,carpet-area,2.0,30.0,South,,18
+6.0,Venkatadri Township,80000.0,Semi-Furnished,5.0,Bachelors/Family,Immediately,3205.0,super-area,2.0,3.0,,,18
+1.0,Gachibowli,10000.0,Furnished,1.0,Bachelors/Family,Immediately,480.0,carpet-area,7.0,17.0,,1.0,18
+2.0,"Narsingi, Outer Ring Road",50000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,980.0,carpet-area,4.0,39.0,West,2.0,18
+3.0,Kondapur,60000.0,Furnished,3.0,Bachelors/Family,Immediately,1850.0,super-area,8.0,9.0,,,18
+3.0,Hyderabad,75000.0,Furnished,2.0,Bachelors/Family,Immediately,2250.0,carpet-area,5.0,5.0,,1.0,18
+2.0,"Pragathi Nagar, Kukatpally",16000.0,Unfurnished,2.0,Bachelors/Family,Immediately,700.0,carpet-area,2.0,3.0,East,1.0,18
+1.0,Gachibowli,14000.0,Furnished,1.0,Bachelors,Immediately,650.0,carpet-area,4.0,18.0,North - East,1.0,18
+2.0,"Pocharam, NH 2 2",25000.0,Unfurnished,2.0,Bachelors,Immediately,1210.0,super-area,8.0,14.0,West,1.0,18
+3.0,Yapral,24000.0,Semi-Furnished,2.0,Bachelors,Immediately,1550.0,carpet-area,1.0,3.0,East,2.0,18
+,Hussaini Alam,,,,Bachelors/Family,Immediately,,,,,,,18
+2.0,Karmanghat Road,13000.0,Unfurnished,2.0,Bachelors/Family,Immediately,980.0,super-area,2.0,3.0,,,18
+3.0,Hyderabad,15000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1306.0,carpet-area,2.0,2.0,,1.0,18
+4.0,Nanakaramguda,,Furnished,3.0,Bachelors/Family,Immediately,3200.0,carpet-area,20.0,33.0,South,2.0,18
+3.0,"RamNaresh Nagar, Hyder Nagar",,Semi-Furnished,2.0,Family,Immediately,1250.0,carpet-area,4.0,4.0,East,2.0,18
+2.0,Gajularamaram,18000.0,Furnished,2.0,Bachelors/Family,Immediately,1150.0,super-area,3.0,5.0,West,2.0,18
+3.0,"Narsingi, Outer Ring Road",65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1535.0,super-area,2.0,18.0,East,,18
+2.0,Kondapur,42000.0,Semi-Furnished,2.0,Bachelors,From Apr '26,1047.0,carpet-area,3.0,5.0,West,1.0,18
+2.0,Hyderabad,1550.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1010.0,super-area,2.0,4.0,,,18
+3.0,"Kokapet, Outer Ring Road",60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2300.0,carpet-area,3.0,19.0,West,1.0,18
+3.0,Prashanthi Hills,45000.0,Semi-Furnished,3.0,Family,Immediately,1400.0,carpet-area,2.0,5.0,North - East,1.0,18
+4.0,Madhapur,,Furnished,4.0,Bachelors,Immediately,2800.0,super-area,5.0,15.0,West,2.0,18
+3.0,"Hafeezpet, NH 9",48000.0,Semi-Furnished,3.0,Bachelors,Immediately,1600.0,carpet-area,8.0,20.0,East,1.0,19
+3.0,Kothaguda,85000.0,,3.0,Bachelors/Family,Immediately,2330.0,super-area,16.0,19.0,,,19
+2.0,TNGOS Colony,48000.0,Semi-Furnished,2.0,Family,From Mar '26,900.0,carpet-area,2.0,30.0,West,2.0,19
+3.0,Nalagandla,65000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1875.0,super-area,9.0,24.0,East,,19
+3.0,"Pasha Colony, Ibrahim Bagh",22000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1100.0,super-area,1.0,4.0,,,19
+3.0,"Banjara Hills, NH 9",80000.0,Furnished,3.0,Bachelors/Family,Immediately,2150.0,carpet-area,5.0,7.0,North,2.0,19
+3.0,Bachupally,41000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1353.0,super-area,21.0,33.0,West,1.0,19
+3.0,Hitech City,75000.0,Furnished,3.0,Bachelors/Family,From Apr '26,1636.0,carpet-area,12.0,17.0,,2.0,19
+3.0,Nalagandla,58000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1500.0,carpet-area,6.0,10.0,East,1.0,19
+3.0,"Jyothi Rao Pule Colony, Serilingampally",60000.0,Semi-Furnished,3.0,Bachelors,Immediately,2083.0,carpet-area,2.0,9.0,West,2.0,19
+3.0,Kothaguda,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2412.0,super-area,6.0,8.0,,,19
+2.0,Gajularamaram,16500.0,Furnished,2.0,Bachelors/Family,Immediately,1200.0,super-area,3.0,5.0,,,19
+1.0,Hakimpet Secunderabad,8500.0,Furnished,2.0,Bachelors/Family,Immediately,59.0,carpet-area,9.0,12.0,,1.0,19
+3.0,"Narsingi, Outer Ring Road",95000.0,Furnished,3.0,Bachelors,Immediately,2335.0,super-area,34.0,40.0,East,1.0,19
+1.0,Ameenpur,6000.0,Unfurnished,1.0,Bachelors/Family,Immediately,400.0,carpet-area,2.0,3.0,,1.0,19
+2.0,Kondapur,22000.0,Furnished,2.0,Bachelors/Family,Immediately,1295.0,carpet-area,10.0,10.0,,2.0,19
+,Himayatnagar Moinabad,,,,Bachelors/Family,Immediately,,,,,,,19
+2.0,"Red Hills, Lakdikapul, NH 7",7000.0,Furnished,2.0,Bachelors/Family,Immediately,900.0,super-area,5.0,6.0,,,19
+3.0,Gachibowli,60000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1740.0,super-area,19.0,28.0,,,19
+2.0,Vinobha Nagar Shaikpet,18000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,800.0,super-area,3.0,4.0,North - East,1.0,19
+3.0,Nalagandla,55000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1550.0,carpet-area,7.0,24.0,,3.0,19
+1.0,Gachibowli,14000.0,Furnished,1.0,Bachelors,Immediately,720.0,carpet-area,3.0,8.0,East,1.0,19
+3.0,"Alkapur Township, Manikonda, Outer Ring Road",32000.0,Semi-Furnished,1.0,Bachelors,Immediately,1900.0,carpet-area,4.0,4.0,,1.0,19
+2.0,Allwyn Colony,13000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1100.0,carpet-area,2.0,5.0,West,1.0,19
+4.0,"Narsingi, Outer Ring Road",72000.0,Semi-Furnished,4.0,Family,Immediately,2319.0,carpet-area,10.0,18.0,West,3.0,19
+3.0,Gachibowli,52000.0,Unfurnished,3.0,Bachelors/Family,Immediately,1685.0,super-area,11.0,14.0,West,1.0,19
+3.0,Mokila,33000.0,Semi-Furnished,3.0,Bachelors,Immediately,1715.0,super-area,4.0,8.0,West,1.0,19
+3.0,"Narsingi, Outer Ring Road",50000.0,Semi-Furnished,3.0,Family,Immediately,1150.0,carpet-area,5.0,5.0,East,1.0,19
+2.0,Ameenpur,20000.0,Furnished,2.0,Bachelors/Family,From Mar '26,1020.0,carpet-area,5.0,6.0,,2.0,19
+3.0,Kakatiya Hills Kavuri Hills,40000.0,Semi-Furnished,2.0,Bachelors/Family,From Apr '26,1600.0,carpet-area,4.0,5.0,,2.0,19
+3.0,"Tellapur, Outer Ring Road",43000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1326.0,carpet-area,10.0,39.0,North - East,,20
+3.0,Beeramguda Ramachandrapuram,35000.0,Semi-Furnished,3.0,Bachelors,Immediately,,carpet-area,3.0,5.0,West,3.0,20
+3.0,Telecom Nagar Gachibowli,63000.0,Furnished,3.0,Bachelors/Family,Immediately,1600.0,super-area,3.0,3.0,East,1.0,20
+3.0,Hitech City,35000.0,Furnished,3.0,Bachelors/Family,Immediately,1700.0,super-area,5.0,7.0,,,20
+3.0,Bachupally,24000.0,Unfurnished,1.0,Family,Immediately,1400.0,carpet-area,4.0,5.0,West,2.0,20
+3.0,Nalagandla,62000.0,Furnished,3.0,Family,From Mar '26,1855.0,super-area,3.0,9.0,West,2.0,20
+3.0,"Tellapur, Outer Ring Road",50000.0,Semi-Furnished,2.0,Bachelors,Immediately,1573.0,super-area,17.0,39.0,East,2.0,20
+2.0,"Kavadiguda, NH 7",22000.0,Semi-Furnished,2.0,Bachelors,Immediately,970.0,carpet-area,3.0,4.0,,3.0,20
+2.0,North Lalaguda,5000.0,Unfurnished,2.0,Bachelors/Family,Immediately,750.0,super-area,,5.0,,,20
+4.0,"Prashant Hills, Rai Durg",57000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,2500.0,super-area,2.0,4.0,East,1.0,20
+2.0,Gajularamaram,30000.0,Furnished,2.0,Bachelors/Family,Immediately,1155.0,super-area,5.0,5.0,,,20
+2.0,Attapur,25000.0,Semi-Furnished,2.0,Bachelors,Immediately,1251.0,carpet-area,5.0,5.0,East,2.0,20
+2.0,Bachupally,30000.0,Furnished,2.0,Bachelors,From Apr '26,1000.0,carpet-area,4.0,5.0,,2.0,20
+4.0,"Kokapet, Outer Ring Road",,Furnished,6.0,Bachelors/Family,Immediately,5600.0,carpet-area,13.0,28.0,West,4.0,20
+1.0,Hyderabad Road,20000.0,Unfurnished,1.0,Bachelors/Family,Immediately,1000.0,super-area,1.0,5.0,,1.0,20
+2.0,Hyderabad,15000.0,Semi-Furnished,1.0,Bachelors/Family,Immediately,1130.0,carpet-area,4.0,4.0,,1.0,20
+3.0,"Kollur, Outer Ring Road",40000.0,Semi-Furnished,3.0,Bachelors/Family,From Apr '26,2120.0,carpet-area,5.0,5.0,North - East,4.0,20
+3.0,Bachupally,25000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1650.0,carpet-area,3.0,5.0,East,2.0,20
+3.0,Moti Nagar Erragadda,50000.0,Semi-Furnished,2.0,Family,Immediately,1065.0,carpet-area,14.0,15.0,West,1.0,20
+3.0,Shaikpet,65000.0,Semi-Furnished,3.0,Family,Immediately,2050.0,super-area,12.0,15.0,North,1.0,20
+2.0,Hyderabad,22000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1400.0,super-area,1.0,3.0,,,20
+4.0,"Gulshan Colony, Qutub Shahi Tombs",25000.0,Unfurnished,2.0,Bachelors,Immediately,1700.0,carpet-area,3.0,5.0,East,1.0,20
+3.0,Hitech City,70000.0,Furnished,3.0,Bachelors/Family,Immediately,1800.0,carpet-area,4.0,9.0,,1.0,20
+2.0,Mehdipatnam,21000.0,Semi-Furnished,2.0,Bachelors/Family,Immediately,1050.0,super-area,3.0,5.0,,,20
+3.0,Prashanthi Hills,23000.0,Unfurnished,2.0,Bachelors/Family,Immediately,1335.0,carpet-area,4.0,5.0,,2.0,20
+3.0,Whitefields,80000.0,Furnished,3.0,Bachelors/Family,Immediately,2310.0,carpet-area,5.0,8.0,,2.0,20
+2.0,"Kukatpally, NH 9",,,2.0,Bachelors/Family,Immediately,,,,,,2.0,20
+2.0,Gopanpally,44000.0,Furnished,2.0,Bachelors,Immediately,1200.0,carpet-area,1.0,4.0,East,2.0,20
+3.0,Kismatpur Road,50000.0,Semi-Furnished,4.0,Bachelors/Family,Immediately,2400.0,carpet-area,2.0,4.0,East,,20
+3.0,"Manchirevula, Outer Ring Road",45000.0,Semi-Furnished,3.0,Bachelors/Family,Immediately,1659.0,carpet-area,2.0,5.0,North,1.0,20
